@@ -10,4 +10,4 @@ APIs usadas:
 - MyMemory
 
 ## DOWNLOAD DO APK
-- Ultima versão do PokeMaui [Aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
+- Ultima versão do PokeMaui [aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
