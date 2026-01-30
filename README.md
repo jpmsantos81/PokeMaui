@@ -1,5 +1,10 @@
 # PokeMaui
-Meu primeiro projeto feito em MAUI e onde eu aprendi a usar APIs.
+
+### DOWNLOAD DO APK
+- Ultima versão do PokeMaui [aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
+
+## Sobre
+Meu primeiro projeto usando APIs e feito em MAUI com C# e XAML.
 
 Você pesquisa um Pokémon por nome ou ID e vê suas informações.
 
@@ -8,6 +13,3 @@ Este projeto foi feito no Android usando a IDE "C# Shell" com o plugin "C# Shell
 APIs usadas:
 - PokeApi
 - MyMemory
-
-## DOWNLOAD DO APK
-- Ultima versão do PokeMaui [aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
