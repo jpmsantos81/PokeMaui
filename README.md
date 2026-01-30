@@ -1,6 +1,6 @@
 # PokeMaui
 
-### DOWNLOAD O APK
+### DOWNLOAD DO APK
 - Ultima versão do PokeMaui [aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
 
 ## Sobre
