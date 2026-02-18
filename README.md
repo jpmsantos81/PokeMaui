@@ -1,7 +1,7 @@
 # PokeMaui
 
 ### DOWNLOAD DO APK
-- Ultima versão do PokeMaui [aqui](https://github.com/jpmsantosTI/PokeMaui/releases/latest)
+- Ultima versão do PokeMaui [aqui](https://github.com/jpmsantos81/PokeMaui/releases/latest)
 
 ## Sobre
 Meu primeiro projeto usando APIs e feito em MAUI com C# e XAML.
